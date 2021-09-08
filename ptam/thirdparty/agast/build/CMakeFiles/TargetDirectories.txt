@@ -1,3 +1,0 @@
-/home/keti/Work/catkin_ws/src/ptam_sw/ptam/thirdparty/agast/build/CMakeFiles/edit_cache.dir
-/home/keti/Work/catkin_ws/src/ptam_sw/ptam/thirdparty/agast/build/CMakeFiles/rebuild_cache.dir
-/home/keti/Work/catkin_ws/src/ptam_sw/ptam/thirdparty/agast/build/CMakeFiles/agast.dir
