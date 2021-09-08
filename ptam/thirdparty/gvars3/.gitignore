@@ -1,4 +1,4 @@
-/include
-/installfiles
-/lib
-/gvars_built
+#/include
+#/installfiles
+#/lib
+#/gvars_built
